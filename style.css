@@ -35,7 +35,7 @@ h2{
 .latest-work{
     background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: 100%;
     margin-left: 2%;
     text-align: center;
     padding: 50px;
@@ -75,12 +75,12 @@ section{
 .top-part{
     background-image: url(images/header-bg.png);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: 100%;
 }
 .middle-part{
     background-image: url(images/biography-bg.png);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: 100%;
 }
 p{
     color: lightslategrey;
@@ -102,7 +102,7 @@ p{
 .bottom-part{
     background-image: url(images/footer-bg.png);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: 100%;
 }
 .contact{
     
