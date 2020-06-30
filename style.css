@@ -17,13 +17,13 @@ h2{
     width: 30%;
     display: inline-block;
     margin-left: 10%;
-    padding-left: 2%;
-    margin-top: 5%;
     vertical-align: top;
+   
     
 }
 #para1{
    padding-left: 200px;
+   padding-top: 5%;
 }
 
 
